@@ -10,7 +10,7 @@
 * ./shodanSpring.sh <redacted>
   
 ## Bonus:
-You can also modify the shodan search by SSL instead of ORG.
+You can also modify the shodan search sorting results by SSL instead of ORG.
 For ORG:
 `... shodan search org:$line`
 
