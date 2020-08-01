@@ -12,11 +12,12 @@
 ## Bonus:
 You can also modify the shodan search by SSL instead of ORG.
 For ORG:
-... shodan search org:$line
+`... shodan search org:$line`
 
 For SSL: (more flase positives results though!)
-shodan search ssl:$line
+`... shodan search ssl:$line`
 
-Credits:
+
+### Credits:
 [@K4r1it0](https://twitter.com/K4r1it0)
 [@Madrobot_](https://twitter.com/Madrobot_)
