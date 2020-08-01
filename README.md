@@ -1,4 +1,4 @@
-# Shodan Bash Script for Enumerating Spring Applications
+# Shodan Bash Script for Enumerating Spring Applications in the Wild
 
 ## Prerequisites:
 * Shodan CLI: sudo apt install python3-shodan
@@ -21,3 +21,6 @@ For SSL: (more flase positives results though!)
 ### Credits:
 [@K4r1it0](https://twitter.com/K4r1it0)
 [@Madrobot_](https://twitter.com/Madrobot_)
+
+### Drop Suggestions:
+[ja1sharma](https://twitter.com/ja1sharma)
